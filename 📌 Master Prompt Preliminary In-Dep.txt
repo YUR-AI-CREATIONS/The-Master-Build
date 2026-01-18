@@ -1,0 +1,31 @@
+📌 Master Prompt: Preliminary In-Depth Due Diligence Report for Land Speculation
+
+“Build me a preliminary, in-depth due diligence report for a land speculation and development opportunity targeted at private hedge funds and institutional investors.
+
+The report must be structured as if prepared by a 40-year veteran civil engineer, master land strategist, and award-winning land broker with expertise in P3s, PIDs, MUDs, TIRZs, and PUDs. It should read like an institutional-grade binder and include:
+
+Executive Summary – property overview, acreage, location, zoning, entitlements, vision.
+
+Market Overview – demographics, household growth, comparable projects, demand drivers.
+
+Development Framework – lot sizes, densities, product mix (MF, BFR, retail, commercial).
+
+Due Diligence Studies – environmental, WOTUS, survey, traffic, geotech, engineering (list status: complete, pending, required).
+
+Development Agreements – proposed PID/TIRZ/MUD structure, dollar amounts, reimbursement strategy, monetization potential, city partnership pitch.
+
+Financial Modeling – pro forma with year 5, 10, 15, 20, 25 scenarios; land values, reimbursements, absorption pacing, taxable value creation.
+
+City & Tax Pitch – fiscal impact modeling, projected ad valorem + sales tax revenues, timeline to net-positive ROI for city.
+
+Builder Disposition Strategy – number of lots, lot sizes, targeted builders (multifamily, build-for-rent, retail), handoff packages.
+
+Investor Performance Summary – capital requirements, reimbursement monetization, exit paths, IRR ranges, forced appreciation via entitlements.
+
+Timeline & Milestones – entitlement, due diligence completion, builder commitments, reimbursement execution, exit window.
+
+Strategic Approach – how to pitch city, hedge funds, and builders; key negotiation points; long-term vision (25-year roadmap).
+
+The format must be professional, expandable, and binder-ready — capable of being converted into a PDF package and an Excel pro forma workbook. Write it as if it will be handed to hedge fund partners making an 8-figure decision.”
+
+APIsk-admin-wyfloWXESzBIYmfJpIIQlNbEf1O5_dA-Rui7Yu8P6Etb1VZumnaxyYiMXkT3BlbkFJAZJgKMg9N4Boijvex7SQp9N9CeR4embwPoi2HVOT_HUEqutCi2bPMnay0A
